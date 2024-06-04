@@ -1,0 +1,22 @@
+{
+  "name": "starship-designer",
+  "version": "0.0.0",
+  "description": "A web application to design starships",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp",
+    "build": "gulp build"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.26.14",
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^5.0.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-terser": "^2.0.1",
+    "sass": "^1.32.8"
+  }
+}
