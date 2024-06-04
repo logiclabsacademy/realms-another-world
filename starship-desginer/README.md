@@ -68,14 +68,6 @@ Cargo Holds
     Secure Cargo Hold
     Refrigerated Cargo Hold
 
-Crew Quarters
-
-    Basic Crew Quarters
-    Luxury Crew Quarters
-    Cryogenic Crew Pods
-    Military Crew Quarters
-    Modular Crew Quarters
-
 Drones and Robots
 
     Repair Drones
